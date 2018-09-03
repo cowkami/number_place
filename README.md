@@ -1,4 +1,4 @@
-# Number Place (Sudoku)
+# Number Place (Sudoku) Solver
 
 This is Sudoku solver written by Nim language.
 
